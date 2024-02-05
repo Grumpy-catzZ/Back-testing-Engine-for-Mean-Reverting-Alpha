@@ -1,4 +1,4 @@
-# Back-testing-Engine-for-Momentum-Trading-Alpha
+# Back-testing-Engine-for-Mean-Reverting-Alpha
 
 | Metric                    | Value     |
 |---------------------------|-----------|
